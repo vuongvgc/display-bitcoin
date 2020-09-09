@@ -1,0 +1,8 @@
+.detail__item {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+.detail__item li {
+    padding: 10px 20px;
+}
